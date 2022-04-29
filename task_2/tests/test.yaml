@@ -1,0 +1,118 @@
+data:
+  data:
+    __globals__:
+      data:
+        c:
+          data: 42
+          type: int
+        math:
+          data: math
+          type: module
+      type: dict
+    attributes:
+      data:
+        __closure__:
+          type: NoneType
+          value: null
+        __code__:
+          data:
+            data:
+              co_argcount:
+                data: 1
+                type: int
+              co_cellvars:
+                data: []
+                type: tuple
+              co_code:
+                data:
+                - 100
+                - 1
+                - 125
+                - 1
+                - 116
+                - 0
+                - 160
+                - 1
+                - 124
+                - 0
+                - 124
+                - 1
+                - 20
+                - 0
+                - 116
+                - 2
+                - 20
+                - 0
+                - 161
+                - 1
+                - 83
+                - 0
+                type: bytes
+              co_consts:
+                data:
+                - type: NoneType
+                  value: null
+                - data: 123
+                  type: int
+                type: tuple
+              co_filename:
+                data: C:\projects\4term\ISP\lab2\tests\testing_things.py
+                type: str
+              co_firstlineno:
+                data: 6
+                type: int
+              co_flags:
+                data: 67
+                type: int
+              co_freevars:
+                data: []
+                type: tuple
+              co_kwonlyargcount:
+                data: 0
+                type: int
+              co_lnotab:
+                data:
+                - 0
+                - 1
+                - 4
+                - 1
+                type: bytes
+              co_name:
+                data: f
+                type: str
+              co_names:
+                data:
+                - data: math
+                  type: str
+                - data: sin
+                  type: str
+                - data: c
+                  type: str
+                type: tuple
+              co_nlocals:
+                data: 2
+                type: int
+              co_posonlyargcount:
+                data: 0
+                type: int
+              co_stacksize:
+                data: 4
+                type: int
+              co_varnames:
+                data:
+                - data: x
+                  type: str
+                - data: a
+                  type: str
+                type: tuple
+            type: dict
+          type: codeobject
+        __defaults__:
+          type: NoneType
+          value: null
+        __name__:
+          data: f
+          type: str
+      type: dict
+  type: dict
+type: function
