@@ -1,0 +1,33 @@
+type = "tuple"
+[[data]]
+type = "int"
+data = 20
+
+[[data]]
+type = "list"
+[[data.data]]
+type = "int"
+data = 1
+
+[[data.data]]
+type = "int"
+data = 2
+
+[[data.data]]
+type = "int"
+data = 3
+
+[[data.data]]
+type = "int"
+data = 4
+
+
+[[data]]
+type = "dict"
+
+[data.data.t1]
+type = "int"
+data = 12
+[data.data.t2]
+type = "int"
+data = 15

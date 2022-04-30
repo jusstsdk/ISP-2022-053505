@@ -1,0 +1,120 @@
+type = "function"
+
+[data]
+type = "dict"
+
+[data.data.__globals__]
+type = "dict"
+
+[data.data.attributes]
+type = "dict"
+
+[data.data.__globals__.data.math]
+type = "module"
+data = "math"
+
+[data.data.__globals__.data.c]
+type = "int"
+data = 42
+
+[data.data.attributes.data.__name__]
+type = "str"
+data = "f"
+
+[data.data.attributes.data.__defaults__]
+type = "NoneType"
+
+[data.data.attributes.data.__closure__]
+type = "NoneType"
+
+[data.data.attributes.data.__code__]
+type = "codeobject"
+
+[data.data.attributes.data.__code__.data]
+type = "dict"
+
+[data.data.attributes.data.__code__.data.data.co_argcount]
+type = "int"
+data = 1
+
+[data.data.attributes.data.__code__.data.data.co_cellvars]
+type = "tuple"
+data = []
+
+[data.data.attributes.data.__code__.data.data.co_code]
+type = "bytes"
+data = [ 100, 1, 125, 1, 116, 0, 160, 1, 124, 0, 124, 1, 20, 0, 116, 2, 20, 0, 161, 1, 83, 0,]
+
+[data.data.attributes.data.__code__.data.data.co_consts]
+type = "tuple"
+[[data.data.attributes.data.__code__.data.data.co_consts.data]]
+type = "NoneType"
+
+[[data.data.attributes.data.__code__.data.data.co_consts.data]]
+type = "int"
+data = 123
+
+[data.data.attributes.data.__code__.data.data.co_filename]
+type = "str"
+data = "C:\\projects\\4term\\ISP\\lab2\\main.py"
+
+[data.data.attributes.data.__code__.data.data.co_firstlineno]
+type = "int"
+data = 38
+
+[data.data.attributes.data.__code__.data.data.co_flags]
+type = "int"
+data = 67
+
+[data.data.attributes.data.__code__.data.data.co_freevars]
+type = "tuple"
+data = []
+
+[data.data.attributes.data.__code__.data.data.co_kwonlyargcount]
+type = "int"
+data = 0
+
+[data.data.attributes.data.__code__.data.data.co_lnotab]
+type = "bytes"
+data = [ 0, 1, 4, 1,]
+
+[data.data.attributes.data.__code__.data.data.co_name]
+type = "str"
+data = "f"
+
+[data.data.attributes.data.__code__.data.data.co_names]
+type = "tuple"
+[[data.data.attributes.data.__code__.data.data.co_names.data]]
+type = "str"
+data = "math"
+
+[[data.data.attributes.data.__code__.data.data.co_names.data]]
+type = "str"
+data = "sin"
+
+[[data.data.attributes.data.__code__.data.data.co_names.data]]
+type = "str"
+data = "c"
+
+[data.data.attributes.data.__code__.data.data.co_nlocals]
+type = "int"
+data = 2
+
+[data.data.attributes.data.__code__.data.data.co_posonlyargcount]
+type = "int"
+data = 0
+
+[data.data.attributes.data.__code__.data.data.co_stacksize]
+type = "int"
+data = 4
+
+[data.data.attributes.data.__code__.data.data.co_varnames]
+type = "tuple"
+[[data.data.attributes.data.__code__.data.data.co_varnames.data]]
+type = "str"
+data = "x"
+
+[[data.data.attributes.data.__code__.data.data.co_varnames.data]]
+type = "str"
+data = "a"
+

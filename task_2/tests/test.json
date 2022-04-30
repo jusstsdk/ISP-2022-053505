@@ -1,0 +1,127 @@
+{
+  "type": "function",
+  "data": {
+    "type": "dict",
+    "data": {
+      "__globals__": {
+        "type": "dict",
+        "data": {}
+      },
+      "attributes": {
+        "type": "dict",
+        "data": {
+          "__name__": {
+            "type": "str",
+            "data": "mul"
+          },
+          "__defaults__": {
+            "type": "NoneType",
+            "value": null
+          },
+          "__closure__": {
+            "type": "NoneType",
+            "value": null
+          },
+          "__code__": {
+            "type": "codeobject",
+            "data": {
+              "type": "dict",
+              "data": {
+                "co_argcount": {
+                  "type": "int",
+                  "data": 2
+                },
+                "co_cellvars": {
+                  "type": "tuple",
+                  "data": []
+                },
+                "co_code": {
+                  "type": "bytes",
+                  "data": [
+                    124,
+                    0,
+                    124,
+                    1,
+                    20,
+                    0,
+                    83,
+                    0
+                  ]
+                },
+                "co_consts": {
+                  "type": "tuple",
+                  "data": [
+                    {
+                      "type": "NoneType",
+                      "value": null
+                    }
+                  ]
+                },
+                "co_filename": {
+                  "type": "str",
+                  "data": "C:\projects\4term\ISP\lab2\tests\testing_things.py"
+                },
+                "co_firstlineno": {
+                  "type": "int",
+                  "data": 15
+                },
+                "co_flags": {
+                  "type": "int",
+                  "data": 67
+                },
+                "co_freevars": {
+                  "type": "tuple",
+                  "data": []
+                },
+                "co_kwonlyargcount": {
+                  "type": "int",
+                  "data": 0
+                },
+                "co_lnotab": {
+                  "type": "bytes",
+                  "data": [
+                    0,
+                    1
+                  ]
+                },
+                "co_name": {
+                  "type": "str",
+                  "data": "mul"
+                },
+                "co_names": {
+                  "type": "tuple",
+                  "data": []
+                },
+                "co_nlocals": {
+                  "type": "int",
+                  "data": 2
+                },
+                "co_posonlyargcount": {
+                  "type": "int",
+                  "data": 0
+                },
+                "co_stacksize": {
+                  "type": "int",
+                  "data": 2
+                },
+                "co_varnames": {
+                  "type": "tuple",
+                  "data": [
+                    {
+                      "type": "str",
+                      "data": "a"
+                    },
+                    {
+                      "type": "str",
+                      "data": "b"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
